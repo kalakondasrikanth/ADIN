@@ -1,0 +1,10 @@
+lightgbm
+numpy
+pandas
+scikit-learn
+tables
+sklearn
+tqdm
+seaborn
+matplotlib
+tensorboardX

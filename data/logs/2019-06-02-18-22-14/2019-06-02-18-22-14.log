@@ -1,0 +1,51 @@
+INFO:root:Data name: training_filled.pickle
+INFO:root:Config={'num_leaves': 60, 'min_data_in_leaf': 120, 'objective': 'binary', 'max_depth': -1, 'learning_rate': 0.2, 'reg_alpha': 0, 'reg_lambda': 0, 'metric': 'auc', 'verbosity': -1, 'early_stopping_rounds': 5, 'scale_pos_weight': 20}
+INFO:root:train_scores_limit=1000
+INFO:root:thr: 0.5
+INFO:root:thr: 0.0
+INFO:root:Train score: 0.5066676879476084
+INFO:root:Test score: 0.8734077660310245
+INFO:root:Train f_score: 0.17691579943235572
+INFO:root:Test f_score: 0.042499380114059016
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+INFO:root:thr: 0.5
+INFO:root:thr: 0.0
+INFO:root:Train score: 0.5593413978494625
+INFO:root:Test score: 0.87789631405454
+INFO:root:Train f_score: 0.20784023668639054
+INFO:root:Test f_score: 0.04252119223407164
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+INFO:root:thr: 0.5
+INFO:root:thr: 0.0
+INFO:root:Train score: 0.567745888678052
+INFO:root:Test score: 0.8712217643846498
+INFO:root:Train f_score: 0.19017731052879336
+INFO:root:Test f_score: 0.04250520471894518
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+INFO:root:thr: 0.5
+INFO:root:thr: 0.0
+INFO:root:Train score: 0.5492884250474384
+INFO:root:Test score: 0.8850849372633748
+INFO:root:Train f_score: 0.18831822759315206
+INFO:root:Test f_score: 0.04285838910282773
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+INFO:root:thr: 0.5
+INFO:root:thr: 0.0
+INFO:root:Train score: 0.5702956989247313
+INFO:root:Test score: 0.851120499632623
+INFO:root:Train f_score: 0.17475447718082032
+INFO:root:Test f_score: 0.04187468223388811
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+INFO:root:
+
+Mean train MAE: 0.5506678196894585
+INFO:root:Mean test MAE: 0.8717462562732423
+INFO:root:Std train MAE: 0.023195082947167517
+INFO:root:Std test MAE: 0.01135078115976409
